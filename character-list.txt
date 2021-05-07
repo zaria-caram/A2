@@ -2,7 +2,16 @@ Character List
 ----------------------------------------
 
 1.) Amelie Gnasher
+	• Age: 30 
+	• Height: 5'4"
+	• Occupation: Author
 
 2.) Luna McCoy
+	• Age: 34
+	• Height: 5'2"
+	• Occupation: Secret Agent
 
 3.) Umbrielle Hinoko
+	• Age: 16
+	• Height: 5'5"
+	• Occupation: Student
